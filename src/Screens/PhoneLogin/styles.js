@@ -12,9 +12,9 @@ const styles = StyleSheet.create({
   phoneStyle: {
     color: colors.black,
     fontSize: scale(24),
-    fontWeight: 'bold',
+    fontWeight: '800',
     textAlign: 'center',
-    marginTop: moderateVerticalScale(40)
+    marginTop: moderateVerticalScale(38)
   },
   descText: {
     fontSize: scale(14),
@@ -30,10 +30,10 @@ const styles = StyleSheet.create({
     borderRadius: 5,
     borderColor: "#000",
     color: colors.black,
-    fontSize: scale(22),
+    fontSize: scale(21),
   },
   underlineStyleHighLighted: {
-    borderColor: "#03DAC6",
+    borderColor: colors.boderColor,
   },
 });
 

@@ -7,4 +7,5 @@ export const colors = {
   themColor: '#89D6CE',
   black: "#000000",
   inputTitle: "#767C8D",
+  otpboder: '#03DAC6'
 }
