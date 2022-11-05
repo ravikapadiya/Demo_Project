@@ -44,7 +44,7 @@ const PhoneLogin = () => {
       </View>
       <View style={styles.phoneContainer}>
         <View style={{ flex: 0.8, }}>
-          <Text style={styles.phoneStyle}>Phon Login</Text>
+          <Text style={styles.phoneStyle}>Phone Login</Text>
           <Text style={styles.descText}>Enter the phone number associated with your account.</Text>
         </View>
 
